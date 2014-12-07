@@ -127,7 +127,7 @@ return array(
          */
         "createCustomCollection" => array(
             "httpMethod" => "POST",
-            "uri" => "/admin/customers.json",
+            "uri" => "/admin/custom_collections.json",
             "summary" => "Creates a custom collection.",
             "responseModel" => "defaultJsonResponse",
             "parameters" => array(
